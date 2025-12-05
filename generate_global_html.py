@@ -119,6 +119,14 @@ html_header = """<!DOCTYPE html>
             margin-bottom: 60px;
             scroll-margin-top: 40px;
         }
+        .category-banner {
+            width: 100%;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
         .category-header {
             display: flex;
             align-items: center;
@@ -263,6 +271,33 @@ for section in global_sounds_data:
 # Generate Body Content
 body_content = ""
 
+# Flag Mapping
+flag_mapping = {
+    "brazil": "br",
+    "south_korea": "kr",
+    "mexico": "mx",
+    "caribbean": "jm",
+    "india": "in",
+    "africa": "ng",
+    "japan": "jp",
+    "china": "cn",
+    "colombia": "co",
+    "middle_east": "eg",
+    "germany": "de",
+    "france": "fr",
+    "uk": "gb",
+    "canada": "ca",
+    "scandinavia": "se",
+    "australia_and_nz": "au",
+    "eastern_europe": "ua",
+    "irish_and_celtic": "ie",
+    "gregorian_chant": "va",
+    "aboriginal_didgeridoo": "au",
+    "native_american": "us",
+    "west_african": "ml",
+    "mongolian_and_andes": "mn"
+}
+
 for section in global_sounds_data:
     cards_html = ""
     for item in section["items"]:
@@ -285,8 +320,13 @@ for section in global_sounds_data:
         </div>
         """
     
+    # Get flag URL
+    country_code = flag_mapping.get(section['id'], "un") # Default to UN flag if not found
+    flag_url = f"https://flagcdn.com/w1280/{country_code}.png"
+    
     body_content += f"""
     <div id="{section['id']}" class="category-section">
+        <img src="{flag_url}" alt="{section['title_en']} Flag" class="category-banner" loading="lazy">
         <div class="category-header">
             <div class="category-title">{section['title_en']}</div>
             <div class="category-subtitle">{section['title_cn']}</div>
