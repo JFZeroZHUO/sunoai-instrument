@@ -215,18 +215,33 @@ html_header = """<!DOCTYPE html>
             border-radius: 6px;
             cursor: pointer;
             font-size: 0.9em;
-            transition: all 0.2s;
-            align-self: flex-start;
+            width: 100%;
+            transition: background-color 0.2s;
             display: flex;
             align-items: center;
-            gap: 5px;
+            justify-content: center;
+            gap: 8px;
         }
         .copy-btn:hover {
-            background-color: var(--primary-color);
-            color: white;
+            background-color: #e2e8f0;
+            color: var(--primary-color);
+        }
+        
+        .audio-player {
+            margin-top: 12px;
+            width: 100%;
+        }
+        audio {
+            width: 100%;
+            height: 32px;
+            border-radius: 20px;
+        }
+        audio::-webkit-media-controls-panel {
+            background-color: #f1f5f9;
         }
 
-        @media (max-width: 1024px) {
+        /* Responsive */
+        @media (max-width: 768px) {
             .app-container { flex-direction: column; }
             .sidebar { width: 100%; height: auto; position: relative; border-right: none; border-bottom: 1px solid var(--border-color); }
             .prompt-grid { grid-template-columns: 1fr; }
@@ -313,10 +328,13 @@ flag_mapping = {
 
 for section in global_sounds_data:
     cards_html = ""
-    for item in section["items"]:
+    for idx, item in enumerate(section["items"], 1):
         # Construct the prompt text to copy
         copy_text = f"{item['title']}: {item['desc_en']}"
         safe_copy_text = copy_text.replace("'", "\\'")
+        
+        # Construct audio filename: category_id_index.mp3 (e.g., brazil_1.mp3)
+        audio_filename = f"audio/{section['id']}_{idx}.mp3"
         
         cards_html += f"""
         <div class="prompt-card">
@@ -326,6 +344,11 @@ for section in global_sounds_data:
             <div class="card-content">
                 <div class="desc-en">{item['desc_en']}</div>
                 <div class="desc-cn">{item['desc_cn']}</div>
+            </div>
+            <div class="audio-player">
+                <audio controls preload="none">
+                    <source src="{audio_filename}" type="audio/mpeg">
+                </audio>
             </div>
             <button class="copy-btn" onclick="copyToClipboard('{safe_copy_text}')">
                 📋 Copy Prompt / 复制
