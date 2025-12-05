@@ -21,15 +21,15 @@ This project is a comprehensive guide designed to help users explore and utilize
 
 ## 📂 Directory Structure / 目录结构
 
-*   `index_styled.html`: The main entry point for the styled webpage. (主要网页入口)
+*   `index.html`: The main entry point for the styled webpage. (主要网页入口)
 *   `images/`: Contains illustrations for each section. (包含各章节的插图)
 *   `audio/`: Directory for storing instrument audio samples. (存放乐器音频示例的目录)
 *   `audio_manifest.txt`: List of expected audio files. (预期音频文件列表)
 
 ## 🚀 How to Use / 如何使用
 
-Simply open `index_styled.html` in any modern web browser to start exploring the prompts!
-只需在任意现代浏览器中打开 `index_styled.html` 即可开始浏览提示词！
+Simply open `index.html` in any modern web browser to start exploring the prompts!
+只需在任意现代浏览器中打开 `index.html` 即可开始浏览提示词！
 
 ---
 *Generated for Suno AI Enthusiasts.*
