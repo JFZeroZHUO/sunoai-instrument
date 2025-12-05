@@ -1,0 +1,241 @@
+Expected Audio Files List:
+
+Bowed Strings (弓弦乐器) -> Violin: classical lead or emotional tone -> violin.mp3
+Bowed Strings (弓弦乐器) -> Viola: soft midrange orchestral texture -> viola.mp3
+Bowed Strings (弓弦乐器) -> Cello: deep and melancholic string warmth -> cello.mp3
+Bowed Strings (弓弦乐器) -> Double Bass: jazz and orchestral foundation -> double_bass.mp3
+Bowed Strings (弓弦乐器) -> Baroque Violin: early music with gut strings -> baroque_violin.mp3
+Bowed Strings (弓弦乐器) -> Electric Violin: modern edge with sustain -> electric_violin.mp3
+Bowed Strings (弓弦乐器) -> Stroh Violin: horn-amplified vintage violin -> stroh_violin.mp3
+Bowed Strings (弓弦乐器) -> Octobass: ultra-deep orchestral foundation -> octobass.mp3
+Bowed Strings (弓弦乐器) -> Violoncello Piccolo: small cello, lyrical tone -> violoncello_piccolo.mp3
+Bowed Strings (弓弦乐器) -> Viola d’amore: Baroque warmth with sympathetic strings -> viola_damore.mp3
+Bowed Strings (弓弦乐器) -> Hardanger Fiddle: traditional Nordic resonance -> hardanger_fiddle.mp3
+Bowed Strings (弓弦乐器) -> Erhu: expressive two-string Chinese instrument -> erhu.mp3
+Bowed Strings (弓弦乐器) -> Kamancheh: Persian bowed melodic instrument -> kamancheh.mp3
+Bowed Strings (弓弦乐器) -> Sarangi: Indian bowed string for vocal mimicry -> sarangi.mp3
+Bowed Strings (弓弦乐器) -> Nyckelharpa: keyed fiddle from Sweden -> nyckelharpa.mp3
+Bowed Strings (弓弦乐器) -> Morin Khuur: Mongolian horsehead fiddle -> morin_khuur.mp3
+Bowed Strings (弓弦乐器) -> Gudok: ancient Slavic bowed lyre -> gudok.mp3
+Bowed Strings (弓弦乐器) -> Gaohu: high-pitched Chinese orchestral string -> gaohu.mp3
+Bowed Strings (弓弦乐器) -> Rebab: bowed string from Arabic traditions -> rebab.mp3
+Bowed Strings (弓弦乐器) -> Yaylı Tanbur: Turkish bowed long-neck instrument -> yayl_tanbur.mp3
+Plucked Strings (拨弦乐器) -> Acoustic Guitar: warm folk or pop rhythm -> acoustic_guitar.mp3
+Plucked Strings (拨弦乐器) -> Electric Guitar: classic rock or solo tones -> electric_guitar.mp3
+Plucked Strings (拨弦乐器) -> Classical Guitar: nylon-string, soft and melodic -> classical_guitar.mp3
+Plucked Strings (拨弦乐器) -> Bass Guitar: low-end groove and rhythm -> bass_guitar.mp3
+Plucked Strings (拨弦乐器) -> Twelve-String Guitar: rich layered strumming tone -> twelvestring_guitar.mp3
+Plucked Strings (拨弦乐器) -> Banjo: twangy bluegrass or folk energy -> banjo.mp3
+Plucked Strings (拨弦乐器) -> Mandolin: bright, fast-pick country tone -> mandolin.mp3
+Plucked Strings (拨弦乐器) -> Ukulele: light tropical strumming vibes -> ukulele.mp3
+Plucked Strings (拨弦乐器) -> Dobro: slide guitar with metallic twang -> dobro.mp3
+Plucked Strings (拨弦乐器) -> Baritone Guitar: deeper alt-rock or surf feel -> baritone_guitar.mp3
+Plucked Strings (拨弦乐器) -> Sitar: resonant Indian classical sound -> sitar.mp3
+Plucked Strings (拨弦乐器) -> Oud: deep Middle Eastern melodic tone -> oud.mp3
+Plucked Strings (拨弦乐器) -> Shamisen: Japanese 3-string pluck instrument -> shamisen.mp3
+Plucked Strings (拨弦乐器) -> Balalaika: triangular Russian folk string -> balalaika.mp3
+Plucked Strings (拨弦乐器) -> Kora: West African harp-lute hybrid -> kora.mp3
+Plucked Strings (拨弦乐器) -> Guzheng: Chinese zither with gliding tones -> guzheng.mp3
+Plucked Strings (拨弦乐器) -> Pipa: crisp and percussive Chinese plucks -> pipa.mp3
+Plucked Strings (拨弦乐器) -> Charango: bright Andean folk string -> charango.mp3
+Plucked Strings (拨弦乐器) -> Laúd: Spanish/Filipino 12-string folk instrument -> lad.mp3
+Plucked Strings (拨弦乐器) -> Ngoni: Malian lute with earthy tone -> ngoni.mp3
+Keys & Piano (键盘与钢琴) -> Grand Piano: dynamic classical or cinematic performance -> grand_piano.mp3
+Keys & Piano (键盘与钢琴) -> Upright Piano: warm, vintage sound for intimate tracks -> upright_piano.mp3
+Keys & Piano (键盘与钢琴) -> Honky Tonk Piano: jangly, bar-style blues piano -> honky_tonk_piano.mp3
+Keys & Piano (键盘与钢琴) -> Rhodes Electric Piano: smooth tone for soul and jazz -> rhodes_electric_piano.mp3
+Keys & Piano (键盘与钢琴) -> Wurlitzer: gritty electric sound with vintage vibe -> wurlitzer.mp3
+Keys & Piano (键盘与钢琴) -> Clavinet: percussive funk keys with bright attack -> clavinet.mp3
+Keys & Piano (键盘与钢琴) -> Harpsichord: baroque pluck with metallic edge -> harpsichord.mp3
+Keys & Piano (键盘与钢琴) -> Organ: sustained gospel or church tones -> organ.mp3
+Keys & Piano (键盘与钢琴) -> Hammond B3: classic jazz or rock organ sound -> hammond_b3.mp3
+Keys & Piano (键盘与钢琴) -> Pipe Organ: grand, cathedral-like ambiance -> pipe_organ.mp3
+Keys & Piano (键盘与钢琴) -> Toy Piano: whimsical, childlike plinky tone -> toy_piano.mp3
+Keys & Piano (键盘与钢琴) -> Prepared Piano: experimental, percussive altered piano -> prepared_piano.mp3
+Keys & Piano (键盘与钢琴) -> Digital Piano: versatile modern keyboard sounds -> digital_piano.mp3
+Keys & Piano (键盘与钢琴) -> Celesta: bell-like keys with magical sparkle -> celesta.mp3
+Keys & Piano (键盘与钢琴) -> Melodica: breath-powered keyboard with quirky charm -> melodica.mp3
+Keys & Piano (键盘与钢琴) -> Synth Piano: digital keys with layered textures -> synth_piano.mp3
+Keys & Piano (键盘与钢琴) -> Keyboard Bass: low-end keyboard for funky lines -> keyboard_bass.mp3
+Keys & Piano (键盘与钢琴) -> Keytar: portable synth with 80s pop energy -> keytar.mp3
+Keys & Piano (键盘与钢琴) -> Accordion: folk or tango style with bellows -> accordion.mp3
+Keys & Piano (键盘与钢琴) -> Pianet: vintage electric piano with mellow tone -> pianet.mp3
+Woodwinds (木管乐器) -> Flute: light, airy sound for melody lines -> flute.mp3
+Woodwinds (木管乐器) -> Piccolo: high-pitched flute with bright tone -> piccolo.mp3
+Woodwinds (木管乐器) -> Clarinet: warm, reedy tone for classical or jazz -> clarinet.mp3
+Woodwinds (木管乐器) -> Bass Clarinet: deep, dark variation of clarinet -> bass_clarinet.mp3
+Woodwinds (木管乐器) -> Oboe: piercing, expressive double reed instrument -> oboe.mp3
+Woodwinds (木管乐器) -> English Horn: mellow, haunting oboe cousin -> english_horn.mp3
+Woodwinds (木管乐器) -> Bassoon: deep, wooden timbre with rich character -> bassoon.mp3
+Woodwinds (木管乐器) -> Contrabassoon: ultra-deep tone for dramatic moments -> contrabassoon.mp3
+Woodwinds (木管乐器) -> Recorder: simple, breathy tone for folk or early music -> recorder.mp3
+Woodwinds (木管乐器) -> Pan Flute: Andean pipes with breathy tone -> pan_flute.mp3
+Woodwinds (木管乐器) -> Shakuhachi: Japanese bamboo flute with airy tone -> shakuhachi.mp3
+Woodwinds (木管乐器) -> Bansuri: Indian bamboo flute for classical or film -> bansuri.mp3
+Woodwinds (木管乐器) -> Duduk: Armenian reed with soulful, ancient feel -> duduk.mp3
+Woodwinds (木管乐器) -> Quena: South American flute with rustic tone -> quena.mp3
+Woodwinds (木管乐器) -> Native American Flute: spiritual and meditative sound -> native_american_flute.mp3
+Woodwinds (木管乐器) -> Soprano Saxophone: bright, jazzy woodwind -> soprano_saxophone.mp3
+Woodwinds (木管乐器) -> Alto Saxophone: smooth and expressive sax tone -> alto_saxophone.mp3
+Woodwinds (木管乐器) -> Tenor Saxophone: warm, robust sax lead -> tenor_saxophone.mp3
+Woodwinds (木管乐器) -> Baritone Saxophone: deep, punchy low sax lines -> baritone_saxophone.mp3
+Woodwinds (木管乐器) -> Contrabass Flute: rare, deep flute for cinematic moods -> contrabass_flute.mp3
+Brass (铜管乐器) -> Trumpet: bright, bold tone for melody lines -> trumpet.mp3
+Brass (铜管乐器) -> Cornet: softer, rounder version of trumpet -> cornet.mp3
+Brass (铜管乐器) -> Flugelhorn: warm, mellow brass for smooth leads -> flugelhorn.mp3
+Brass (铜管乐器) -> French Horn: rich, cinematic brass for emotion -> french_horn.mp3
+Brass (铜管乐器) -> Trombone: sliding brass with dramatic flair -> trombone.mp3
+Brass (铜管乐器) -> Bass Trombone: deeper, punchier low-end brass -> bass_trombone.mp3
+Brass (铜管乐器) -> Tuba: deep foundation brass for orchestral or marching -> tuba.mp3
+Brass (铜管乐器) -> Sousaphone: marching tuba with bold presence -> sousaphone.mp3
+Brass (铜管乐器) -> Euphonium: mellow low brass with vocal tone -> euphonium.mp3
+Brass (铜管乐器) -> Alto Horn: midrange brass for concert bands -> alto_horn.mp3
+Brass (铜管乐器) -> Baritone Horn: blend of trombone and euphonium -> baritone_horn.mp3
+Brass (铜管乐器) -> Bugle: simple valveless brass for military calls -> bugle.mp3
+Brass (铜管乐器) -> Natural Horn: early French horn for classical feel -> natural_horn.mp3
+Brass (铜管乐器) -> Cimbasso: deep cinematic brass often in film scores -> cimbasso.mp3
+Brass (铜管乐器) -> Wagner Tuba: hybrid of horn and tuba, dark tone -> wagner_tuba.mp3
+Brass (铜管乐器) -> Serpent: historical low brass with winding shape -> serpent.mp3
+Brass (铜管乐器) -> Ophicleide: early tuba, buzzy and bold -> ophicleide.mp3
+Brass (铜管乐器) -> Valve Trombone: smoother tone, faster play -> valve_trombone.mp3
+Brass (铜管乐器) -> Cornett: Renaissance brass with mellow tone -> cornett.mp3
+Brass (铜管乐器) -> Kazoo: buzzing novelty effect (brass-like) -> kazoo.mp3
+Percussion (打击乐器) -> Snare Drum: sharp, crisp rhythm for marching or pop -> snare_drum.mp3
+Percussion (打击乐器) -> Bass Drum: deep boom for orchestral or rock beats -> bass_drum.mp3
+Percussion (打击乐器) -> Timpani: tuned drums for dramatic orchestral swells -> timpani.mp3
+Percussion (打击乐器) -> Tom-Toms: versatile drums for fills and accents -> tomtoms.mp3
+Percussion (打击乐器) -> Cymbals: crashing or shimmering accents -> cymbals.mp3
+Percussion (打击乐器) -> Hi-Hats: tight rhythmic clicks for grooves -> hihats.mp3
+Percussion (打击乐器) -> Kick Drum: core beat in modern music -> kick_drum.mp3
+Percussion (打击乐器) -> Rimshot: sharp, percussive snap for emphasis -> rimshot.mp3
+Percussion (打击乐器) -> Bongos: hand drums with bright Latin tone -> bongos.mp3
+Percussion (打击乐器) -> Congas: tall hand drums for salsa and Afro-Cuban -> congas.mp3
+Percussion (打击乐器) -> Djembe: African hand drum with wide tone range -> djembe.mp3
+Percussion (打击乐器) -> Cajón: box drum for acoustic sessions -> cajn.mp3
+Percussion (打击乐器) -> Claves: wooden sticks for timekeeping clicks -> claves.mp3
+Percussion (打击乐器) -> Triangle: light, ringing accent in orchestras -> triangle.mp3
+Percussion (打击乐器) -> Tambourine: jingling percussion for folk or pop -> tambourine.mp3
+Percussion (打击乐器) -> Maracas: shaken rhythm for Latin or dance -> maracas.mp3
+Percussion (打击乐器) -> Woodblock: sharp click for tempo or color -> woodblock.mp3
+Percussion (打击乐器) -> Cowbell: metallic tone used in funk or rock -> cowbell.mp3
+Percussion (打击乐器) -> Glockenspiel: bright tuned metal bars for melody -> glockenspiel.mp3
+Global Instruments I (世界乐器 I) -> Sitar: Indian plucked string with drone tones -> sitar.mp3
+Global Instruments I (世界乐器 I) -> Bagpipes: traditional Scottish or Celtic pipes -> bagpipes.mp3
+Global Instruments I (世界乐器 I) -> Tabla: Indian drums for rhythmic complexity -> tabla.mp3
+Global Instruments I (世界乐器 I) -> Erhu: Chinese two-stringed bowed instrument -> erhu.mp3
+Global Instruments I (世界乐器 I) -> Guzheng: Chinese plucked zither with rich tone -> guzheng.mp3
+Global Instruments I (世界乐器 I) -> Dizi: Chinese bamboo flute with bright sound -> dizi.mp3
+Global Instruments I (世界乐器 I) -> Shamisen: Japanese three-string plucked lute -> shamisen.mp3
+Global Instruments I (世界乐器 I) -> Taiko Drums: Japanese ensemble drums with impact -> taiko_drums.mp3
+Global Instruments I (世界乐器 I) -> Hichiriki: Japanese double reed wind instrument -> hichiriki.mp3
+Global Instruments I (世界乐器 I) -> Koto: Japanese zither with long strings -> koto.mp3
+Global Instruments I (世界乐器 I) -> Dan Bau: Vietnamese one-stringed monochord -> dan_bau.mp3
+Global Instruments I (世界乐器 I) -> Pipa: Chinese lute with expressive plucking -> pipa.mp3
+Global Instruments I (世界乐器 I) -> Sarangi: Indian bowed string for emotional tone -> sarangi.mp3
+Global Instruments I (世界乐器 I) -> Kora: West African harp-lute with melodic lines -> kora.mp3
+Global Instruments I (世界乐器 I) -> Balafon: West African wooden xylophone -> balafon.mp3
+Global Instruments I (世界乐器 I) -> Talking Drum: West African pressure-tuned drum -> talking_drum.mp3
+Global Instruments I (世界乐器 I) -> Ngoni: West African stringed ancestor of banjo -> ngoni.mp3
+Global Instruments I (世界乐器 I) -> Shekere: West African gourd shaker -> shekere.mp3
+Global Instruments I (世界乐器 I) -> Krakebs: Moroccan metal castanets -> krakebs.mp3
+Global Instruments I (世界乐器 I) -> Berimbau: Brazilian single-string percussion bow -> berimbau.mp3
+Global Instruments I (世界乐器 I) -> Cuíca: Brazilian friction drum with vocal quality -> cuca.mp3
+Global Instruments II (世界乐器 II) -> Charango: Andean small lute with bright tone -> charango.mp3
+Global Instruments II (世界乐器 II) -> Pan Flute: South American wind pipes -> pan_flute.mp3
+Global Instruments II (世界乐器 II) -> Bombo: South American drum with deep sound -> bombo.mp3
+Global Instruments II (世界乐器 II) -> Bandoneón: Argentinian button accordion -> bandonen.mp3
+Global Instruments II (世界乐器 II) -> Quena: Traditional Andean flute -> quena.mp3
+Global Instruments II (世界乐器 II) -> Steel Drums: Caribbean melodic percussion -> steel_drums.mp3
+Global Instruments II (世界乐器 II) -> Maracas: Latin handheld shakers for rhythm -> maracas.mp3
+Global Instruments II (世界乐器 II) -> Cajón: Peruvian box drum with slap tones -> cajn.mp3
+Global Instruments II (世界乐器 II) -> Oud: Middle Eastern lute with deep resonance -> oud.mp3
+Global Instruments II (世界乐器 II) -> Ney: Middle Eastern end-blown flute -> ney.mp3
+Global Instruments II (世界乐器 II) -> Darbuka: Middle Eastern goblet drum -> darbuka.mp3
+Global Instruments II (世界乐器 II) -> Zurna: Turkish loud double reed horn -> zurna.mp3
+Global Instruments II (世界乐器 II) -> Gaida: Balkan bagpipe with buzzing drone -> gaida.mp3
+Global Instruments II (世界乐器 II) -> Tapan: Balkan double-headed drum -> tapan.mp3
+Global Instruments II (世界乐器 II) -> Cimbalom: Eastern European hammered dulcimer -> cimbalom.mp3
+Global Instruments II (世界乐器 II) -> Balalaika: Russian triangular string instrument -> balalaika.mp3
+Global Instruments II (世界乐器 II) -> Jaw Harp: Folk mouth instrument with twang -> jaw_harp.mp3
+Global Instruments II (世界乐器 II) -> Didgeridoo: Aboriginal wind drone with earthy tone -> didgeridoo.mp3
+Global Instruments II (世界乐器 II) -> Claves: Afro-Cuban wooden click sticks -> claves.mp3
+Global Instruments II (世界乐器 II) -> Kalimba: African thumb piano with gentle melody -> kalimba.mp3
+Synth & Electronic (合成器与电子乐) -> Sub Bass: deep vibrating low-end foundation -> sub_bass.mp3
+Synth & Electronic (合成器与电子乐) -> Saw Lead: aggressive cutting synth melody -> saw_lead.mp3
+Synth & Electronic (合成器与电子乐) -> Square Wave: classic chiptune-style synth tone -> square_wave.mp3
+Synth & Electronic (合成器与电子乐) -> Pluck Synth: short percussive tone for pop -> pluck_synth.mp3
+Synth & Electronic (合成器与电子乐) -> Arpeggiator: fast cycling melodic patterns -> arpeggiator.mp3
+Synth & Electronic (合成器与电子乐) -> Ambient Pad: dreamy background texture -> ambient_pad.mp3
+Synth & Electronic (合成器与电子乐) -> FM Synth: digital bell-like tones -> fm_synth.mp3
+Synth & Electronic (合成器与电子乐) -> Pulse Wave: sharp-edged retro synth voice -> pulse_wave.mp3
+Synth & Electronic (合成器与电子乐) -> White Noise: static texture for sweeps -> white_noise.mp3
+Synth & Electronic (合成器与电子乐) -> Noise Sweep: rising or falling tension sound -> noise_sweep.mp3
+Synth & Electronic (合成器与电子乐) -> Riser: builds energy before drops -> riser.mp3
+Synth & Electronic (合成器与电子乐) -> Downlifter: falling effect to signal change -> downlifter.mp3
+Synth & Electronic (合成器与电子乐) -> LFO Modulation: slow filter pulsing texture -> lfo_modulation.mp3
+Synth & Electronic (合成器与电子乐) -> Synth Brass: bold synthetic horn-like tone -> synth_brass.mp3
+Synth & Electronic (合成器与电子乐) -> Vocoder: robotic filtered vocal harmonies -> vocoder.mp3
+Synth & Electronic (合成器与电子乐) -> Bitcrushed Synth: lo-fi distorted digital sound -> bitcrushed_synth.mp3
+Synth & Electronic (合成器与电子乐) -> Wobble Bass: modulated bass for dubstep -> wobble_bass.mp3
+Synth & Electronic (合成器与电子乐) -> Chiptune Synth: vintage video game sound -> chiptune_synth.mp3
+Synth & Electronic (合成器与电子乐) -> Laser FX: sharp electronic sound effect -> laser_fx.mp3
+Synth & Electronic (合成器与电子乐) -> Glitch Stutter: rapid repetition or breakdown -> glitch_stutter.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Boing Sound: cartoon-style springy tone -> boing_sound.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Garbage Can Drum: metallic street percussion -> garbage_can_drum.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Toy Piano: tiny whimsical bell-like keys -> toy_piano.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Kazoo: buzzing childlike buzzing wind sound -> kazoo.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Balloon Squeak: slippery rubber pitch effects -> balloon_squeak.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Typewriter Clicks: percussive rhythmic typing noises -> typewriter_clicks.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Animal Sounds: farm or jungle vocal textures -> animal_sounds.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Bottle Blow: airy tone from glass bottles -> bottle_blow.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Reverse Cymbal: swelling backward crash effect -> reverse_cymbal.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Clap Echo: delayed layered hand clap -> clap_echo.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Whistle FX: high-pitched melodic punctuation -> whistle_fx.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Telephone Dial: nostalgic rotary clicks and tones -> telephone_dial.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Vinyl Scratch: DJ-style record movement texture -> vinyl_scratch.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Ping Pong Bounces: rhythmic bouncing echo effect -> ping_pong_bounces.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Alien Voice FX: modulated extraterrestrial tone -> alien_voice_fx.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Door Creak: slow groaning ambient effect -> door_creak.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Robot Voice: synthetic monotone vocal texture -> robot_voice.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Synthesized Rain: artificial ambient water pattern -> synthesized_rain.mp3
+Wacky & Experimental (奇特与实验性乐器) -> Spoon Percussion: clinking metal folk rhythm -> spoon_percussion.mp3
+Vocal Styles (人声风格) -> Falsetto: soft high-pitched male vocals -> falsetto.mp3
+Vocal Styles (人声风格) -> Growl Vocals: aggressive metal-style vocal fry -> growl_vocals.mp3
+Vocal Styles (人声风格) -> Whistle Tones: extremely high vocal notes -> whistle_tones.mp3
+Vocal Styles (人声风格) -> Throat Singing: deep harmonic Tuvan overtone -> throat_singing.mp3
+Vocal Styles (人声风格) -> Chanting: meditative or tribal rhythmic phrases -> chanting.mp3
+Vocal Styles (人声风格) -> Yodeling: alpine voice breaks and flips -> yodeling.mp3
+Vocal Styles (人声风格) -> Opera Vocals: dramatic and classically trained voice -> opera_vocals.mp3
+Vocal Styles (人声风格) -> Rap Flow: rhythmic spoken lyrics -> rap_flow.mp3
+Vocal Styles (人声风格) -> Soulful Belting: passionate R&B power vocals -> soulful_belting.mp3
+Vocal Styles (人声风格) -> Vocal Runs: rapid note transitions in pop/R&B -> vocal_runs.mp3
+Vocal Styles (人声风格) -> Screamo: intense emotional screaming delivery -> screamo.mp3
+Vocal Styles (人声风格) -> Scat Singing: jazz-style improvisational syllables -> scat_singing.mp3
+Vocal Styles (人声风格) -> Choral Ensemble: multi-part harmonized group singing -> choral_ensemble.mp3
+Vocal Styles (人声风格) -> Gregorian Chant: solemn medieval unison vocals -> gregorian_chant.mp3
+Vocal Styles (人声风格) -> Talk-Singing: spoken melodic narration -> talksinging.mp3
+Vocal Styles (人声风格) -> Beatboxing: vocal percussion and rhythm sounds -> beatboxing.mp3
+Vocal Styles (人声风格) -> Humming Layer: soft ambient background vocals -> humming_layer.mp3
+Vocal Styles (人声风格) -> Vocal Chop FX: sliced and remixed voice samples -> vocal_chop_fx.mp3
+Vocal Styles (人声风格) -> Pop Diva Style: polished high-energy female vocal -> pop_diva_style.mp3
+Vocal Styles (人声风格) -> Folk Narration: earthy storytelling vocal tone -> folk_narration.mp3
+Bonus Prompts (奖励提示词) -> Ghost jazz noir with smoky horns and late-night mystery -> ghost_jazz_noir_with_smoky_horns_and_latenight_mystery.mp3
+Bonus Prompts (奖励提示词) -> Hyperpop punk energy with glitchy synths and wild vocals -> hyperpop_punk_energy_with_glitchy_synths_and_wild_vocals.mp3
+Bonus Prompts (奖励提示词) -> Desert surf rock with tremolo twang and dusty desert groove -> desert_surf_rock_with_tremolo_twang_and_dusty_desert_groove.mp3
+Bonus Prompts (奖励提示词) -> Dungeon synthwave full of eerie pads and medieval ambience -> dungeon_synthwave_full_of_eerie_pads_and_medieval_ambience.mp3
+Bonus Prompts (奖励提示词) -> Bubblegum trap rave that's bouncy, loud, and sugar-coated -> bubblegum_trap_rave_thats_bouncy_loud_and_sugarcoated.mp3
+Bonus Prompts (奖励提示词) -> Ancient funk gospel with vintage keys and soulful choirs -> ancient_funk_gospel_with_vintage_keys_and_soulful_choirs.mp3
+Bonus Prompts (奖励提示词) -> Sci-fi spaghetti western with synth leads and outlaw vibes -> scifi_spaghetti_western_with_synth_leads_and_outlaw_vibes.mp3
+Bonus Prompts (奖励提示词) -> Lo-fi anime café beats with cozy textures and soft nostalgia -> lofi_anime_caf_beats_with_cozy_textures_and_soft_nostalgia.mp3
+Bonus Prompts (奖励提示词) -> Metal flamenco fusion with rapid strums and pounding riffs -> metal_flamenco_fusion_with_rapid_strums_and_pounding_riffs.mp3
+Bonus Prompts (奖励提示词) -> Caribbean choral trance layered with oceanic vocal swells -> caribbean_choral_trance_layered_with_oceanic_vocal_swells.mp3
+Bonus Prompts (奖励提示词) -> Jungle disco gospel with tribal percussion and praise energy -> jungle_disco_gospel_with_tribal_percussion_and_praise_energy.mp3
+Bonus Prompts (奖励提示词) -> Avant-garde yacht hop with breezy luxury and warped samples -> avantgarde_yacht_hop_with_breezy_luxury_and_warped_samples.mp3
+Bonus Prompts (奖励提示词) -> Gothic EDM choir with dramatic synths and Latin harmonies -> gothic_edm_choir_with_dramatic_synths_and_latin_harmonies.mp3
+Bonus Prompts (奖励提示词) -> Siberian techno folk with cold pulse and throat singing -> siberian_techno_folk_with_cold_pulse_and_throat_singing.mp3
+Bonus Prompts (奖励提示词) -> Broken cassette jazz with warped sax and tape hiss loops -> broken_cassette_jazz_with_warped_sax_and_tape_hiss_loops.mp3
+Bonus Prompts (奖励提示词) -> Alien doo-wop blues with echo vocals and cosmic guitar -> alien_doowop_blues_with_echo_vocals_and_cosmic_guitar.mp3
+Bonus Prompts (奖励提示词) -> Neo-swing noir with jazzy brass and vinyl crackle energy -> neoswing_noir_with_jazzy_brass_and_vinyl_crackle_energy.mp3
+Bonus Prompts (奖励提示词) -> Japanese math funk with tight rhythms and melodic punch -> japanese_math_funk_with_tight_rhythms_and_melodic_punch.mp3
+Bonus Prompts (奖励提示词) -> Medieval trap beats with lute melodies and 808s -> medieval_trap_beats_with_lute_melodies_and_808s.mp3
+Bonus Prompts (奖励提示词) -> Cute-core ambient layered with soft pads and toy melodies -> cutecore_ambient_layered_with_soft_pads_and_toy_melodies.mp3
