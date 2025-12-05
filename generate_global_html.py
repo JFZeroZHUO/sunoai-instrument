@@ -119,18 +119,31 @@ html_header = """<!DOCTYPE html>
             margin-bottom: 60px;
             scroll-margin-top: 40px;
         }
-        .category-banner {
+        .category-banner-container {
             width: 100%;
-            height: 150px;
-            object-fit: cover;
+            height: 200px;
             border-radius: 12px;
-            margin-bottom: 20px;
+            margin-bottom: 30px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .category-flag {
+            max-height: 85%;
+            max-width: 90%;
+            object-fit: contain;
+            filter: drop-shadow(0 4px 8px rgba(0,0,0,0.2));
+            transition: transform 0.3s ease;
+        }
+        .category-flag:hover {
+            transform: scale(1.05);
         }
         .category-header {
             display: flex;
             align-items: center;
-            margin-bottom: 30px;
+            margin-bottom: 20px;
             padding-bottom: 15px;
             border-bottom: 2px solid var(--border-color);
         }
@@ -324,12 +337,21 @@ for section in global_sounds_data:
     country_code = flag_mapping.get(section['id'], "un") # Default to UN flag if not found
     flag_url = f"https://flagcdn.com/w1280/{country_code}.png"
     
+    # Generate a gradient based on section ID hash to have consistent but varied colors
+    import hashlib
+    hash_val = int(hashlib.sha256(section['id'].encode('utf-8')).hexdigest(), 16)
+    hue1 = hash_val % 360
+    hue2 = (hue1 + 40) % 360
+    gradient_style = f"background: linear-gradient(135deg, hsl({hue1}, 70%, 90%) 0%, hsl({hue2}, 70%, 85%) 100%);"
+
     body_content += f"""
     <div id="{section['id']}" class="category-section">
-        <img src="{flag_url}" alt="{section['title_en']} Flag" class="category-banner" loading="lazy">
         <div class="category-header">
             <div class="category-title">{section['title_en']}</div>
             <div class="category-subtitle">{section['title_cn']}</div>
+        </div>
+        <div class="category-banner-container" style="{gradient_style}">
+            <img src="{flag_url}" alt="{section['title_en']} Flag" class="category-flag" loading="lazy">
         </div>
         <div class="prompt-grid">
             {cards_html}
