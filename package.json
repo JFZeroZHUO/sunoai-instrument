@@ -1,0 +1,26 @@
+{
+  "name": "pdf_webpage",
+  "version": "1.0.0",
+  "description": "**[English]** This project is a comprehensive guide designed to help users explore and utilize various instrument prompts for Suno AI music generation. It features a curated collection of over 200 instruments, categorized for easy navigation.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JFZeroZHUO/sunoai-instrument.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JFZeroZHUO/sunoai-instrument/issues"
+  },
+  "homepage": "https://github.com/JFZeroZHUO/sunoai-instrument#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "multer": "^2.0.2"
+  }
+}
